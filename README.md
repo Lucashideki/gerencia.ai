@@ -39,6 +39,12 @@ Tecnologias:
 - Excluir (Button)
 - Adicionar (Button)
 
+## Página do cliente
+
+- Testes (Button)
+- Chamados ?? (Button)
+- Backlog (Button)
+
 ## Backlog
 
 - Funcionalidade
