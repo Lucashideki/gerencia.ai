@@ -21,7 +21,6 @@ Tecnologias:
 - Nginx (https)
 - Mariadb (Banco de dados)  -- HÁ CONTROVERSAS
 - Angular (Front)
-- ? (Back)
 - Figma (Modelagem das telas)
   
 
@@ -29,20 +28,47 @@ Tecnologias:
 
 ## LOGIN
 
-- Email (input)
-- Senha (input)
-- Criar usuário (Button)
+Na página de login, o usuário terá que fazer o preenchimento das seguintes informações:
+
+- E-mail
+- Senha
+
+Caso o mesmo não esteja brevemente cadastrado na plataforma, terá acesso ao botão "Faça o cadastro" exposto na mesma página.
 
 ## CADASTRO
 
-- Nome (input)
-- E-mail (input)
-- Senha (input)
+Na página de cadastro o usuário obrigatoriamente terá que preencher as seguintes informações
 
-## PROJETOS (CLIENTES)
+- Nome
+- E-mail
+- Senha
+- Confirme a sua senha
+
+Lembre-se de adicionar um e-mail válido, pois ao finalizar o cadastro, receberá um e-mail com a confirmação de que o cadastro foi realizado com sucesso.
+
+
+## CLIENTES 
+
+
+Na paǵina de clientes o usuário terá acesso a:
+
+- Criar/Adicionar um novo cliente
+- Listagem dos clientes já cadastrados
+    - Acessar qualquer cliente listado
+    - Editar
+    - Excluir
+
+Na listagem estará exposto:
 
 - ID
-- Nome do projeto/Cliente
+- NOME
+- DESCRIÇÃO
+
+
+## PROJETOS
+
+- ID
+- Nome do projeto
 - Descrição
 - Editar (Button)
 - Excluir (Button)
